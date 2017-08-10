@@ -1,0 +1,8 @@
+ubuntu环境变量的设置
+
+sudo gedit ~/.bashrc
+添加要加入的环境变量入境，如：
+export PATH=/home/why/anaconda/bin:$PATH
+
+安装：
+ conda install matplotlib
